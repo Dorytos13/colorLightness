@@ -1,5 +1,5 @@
 import { generatePalette, isHexColor , hexToCSSHSL} from "./modules/utils.js";
-import { Color } from "./modules/Colors.js";
+import { Color } from "./modules/Color.js";
 import * as convert from "color-convert";
 import { Notyf } from 'notyf';
 import 'notyf/notyf.min.css'; 
