@@ -1,0 +1,24 @@
+{
+  "name": "colorlightness",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorytos13/colorLightness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dorytos13/colorLightness/issues"
+  },
+  "homepage": "https://github.com/Dorytos13/colorLightness#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
